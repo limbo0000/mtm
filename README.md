@@ -3,8 +3,7 @@
 ![image](./docs/assets/teaser.png)
 
 > **Learning Modulated Transformation in GANs** <br>
-> Ceyuan Yang, Qihang Zhang, Yinghao Xu, Jiapeng Zhu, Yujun Shen, Bo Dai
-<br>
+> Ceyuan Yang, Qihang Zhang, Yinghao Xu, Jiapeng Zhu, Yujun Shen, Bo Dai <br>
 > *arXiv preprint arXiv:2308.15472*
 
 [[Paper](https://arxiv.org/pdf/2308.15472.pdf)]
